@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Suchen und hinzufügen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f096a10d-ab58-4b8f-a003-4bc4e331ebd2</testCaseGuid>
+   <variable>
+      <defaultValue>'Samsung Smartphone'</defaultValue>
+      <description></description>
+      <id>0adc7761-88bd-4fe8-8882-47560dc6339e</id>
+      <masked>false</masked>
+      <name>desiredItem</name>
+   </variable>
+</TestCaseEntity>

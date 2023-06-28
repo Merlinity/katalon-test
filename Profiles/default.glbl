@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Internetadresse</description>
+      <initValue>'https://www.amazon.de/'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Suchtext</description>
+      <initValue>'diablo immortal'</initValue>
+      <name>searchText</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
